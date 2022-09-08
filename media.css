@@ -1,0 +1,155 @@
+@media(max-width:940px) {
+    .firstBuy {
+        width: 795px;
+        gap: 15px;
+    }
+
+    .infoBuy {
+        font-size: 20px;
+    }
+
+    .btnBuy {
+        font-size: 20px;
+    }
+
+    .mainImages {
+        gap: 15px;
+    }
+
+    .img {
+        width: 350px;
+        height: 350px;
+        margin: auto;
+    }
+}
+
+@media(max-width:863px) {
+    .firstBuy {
+        width: 680px;
+        gap: 15px;
+    }
+
+    .infoBuy {
+        width: 500px;
+        font-size: 19px;
+    }
+
+    .btnBuy {
+        font-size: 19px;
+    }
+    .contentSection{
+        width: 650px;
+    }
+
+    .mainImages {
+        gap: 15px;
+    }
+
+    .img {
+        width: 290px;
+        height: 290px;
+        margin: auto;
+    }
+}
+
+@media(max-width:734px) {
+    .firstBuy {
+        width: 600px;
+        gap: 20px;
+    }
+    .contentSection{
+        width: 550px;
+    }
+    .infoBuy {
+        width: 400px;
+        font-size: 18px;
+    }
+    .btnBuy {
+        font-size: 18px;
+    }
+}
+
+@media(max-width:634px) {
+    .firstBuy {
+        width: 400px;
+        gap: 20px;
+    }
+    .contentSection{
+        width: 450px;
+    }
+    .infoBuy {
+        width: 330px;
+        font-size: 16px;
+    }
+    .btnBuy {
+        font-size: 16px;
+    }
+    .textFooter {
+        font-size: 14px;
+    }
+}
+
+@media(max-width:455px) {
+    .menuNavbar{
+        justify-content: center;
+        align-items: center;
+    }
+    .firstBuy {
+        width: 300px;
+        gap: 20px;
+    }
+    .contentSection{
+        width: 320px;  
+    }
+    .categoryCard{
+        width: 250px;
+    }
+    .infoBuy {
+        width: 200px;
+        font-size: 14px;
+    }
+    .btnBuy {
+        font-size: 14px;
+    }
+    .img {
+        width: 250px;
+        height: 250px;  
+    }
+    .textFooter {
+        font-size: 12px;
+    }
+}
+
+@media(max-width:310px) {
+    .header{
+        min-width: 270px;
+    }
+    #carouselExampleIndicators{
+        min-width: 270px;
+    }
+    .firstBuy {
+        width: 250px;
+        gap: 20px;
+    }
+    .contentSection{
+        width: 270px;
+    }
+    .categoryCard{
+        width: 180px;
+    }
+    .infoBuy {
+        width: 190px;
+        font-size: 14px;
+    }
+    .btnBuy {
+        font-size: 14px;
+
+    }
+    .img {
+        width: 220px;
+        height: 220px;
+    }
+    .textFooter {
+        font-size: 12px;
+    }
+}
